@@ -1,0 +1,45 @@
+
+
+.formulario{
+	text-align: center;
+	width: 600px;
+
+}
+
+form>h1{
+	padding: 2%;
+	background-color: #000000;
+	text-align: center;
+	color:#F01818;
+}
+
+form input:hover{
+	background: #AAECEB;
+}
+
+
+
+ul{
+	list-style: none;
+}
+
+.footer{
+	background: #000000;
+	color: white;
+	padding:2%;
+	text-align: center;
+}
+
+.footer li{
+	display: inline;
+	margin:2%;
+	text-align:center;
+}
+
+
+.footer a{
+	background-color: #949191;
+	text-decoration: none;
+	padding: 1%;
+	color:white;
+}
