@@ -1,0 +1,34 @@
+#logoEmpresa{
+	height: 50px;
+	margin-top: 7px;
+}
+
+#tarjetasInfo{
+	padding-left: 9%
+}
+
+.tamanioModificado{
+	height: 50px;
+	width: 800px;
+}
+
+#delimitaFotosRopa{
+	height: 130px;
+	width: 120px;
+}
+.subirfoto{
+	margin-top: -20px;
+}
+
+#registro{
+	text-align: center;
+	font-size: 29px;
+	color: white;
+	font-family: verdana;
+	font-style: italic;
+
+}
+
+#footerMove{
+	margin-top: -18px;
+}
